@@ -1,6 +1,7 @@
-# :zombie: ZombEat
+# :zombie: [ZombEat](https://bit.ly/zomb-eat)
 ## Surviving: stronger together.
-###### made by Team ZombEat as a hackathon project for Illinois WCS' Code Ada 2021.
+###### [bit.ly/zomb-eat](https://bit.ly/zomb-eat) · made by Team ZombEat as a hackathon project for Illinois WCS' Code Ada 2021.
+###### 
 
 ###
 ``` diff
