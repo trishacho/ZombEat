@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+display: flex;
+background-color: #797d62;
+position: relative;
+}
+
+/* WELCOME TO DAY */
+.text1 {
+  
+position: absolute;
+width: 973px;
+height: 124px;
+left: 84px;
+top: 84px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 80px;
+line-height: 94px;
+text-align: center;
+letter-spacing: 0.11em;
+
+color: #FFFFFF;
+}
+
+ /* OF THE APOCALYPSE... */
+.text2 {
+position: absolute;
+width: 1234px;
+height: 124px;
+left: 77px;
+top: 186px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 80px;
+line-height: 94px;
+text-align: center;
+letter-spacing: 0.11em;
+
+color: #FFFFFF;
+
+}
+
+/* GET STARTED BUTTON */
+.gsButton {
+position: absolute;
+width: 511px;
+height: 90px;
+left: 448px;
+top: 332px;
+margin-top: 50px;
+}
+
+/* RISING IMAGE */
+.risingImg {
+position: absolute;
+width: 592px;
+height: 503px;
+left: 398px;
+top: 470px;
+margin-top: 80px;
+}
+
+a{
+  transition:0.5s;
+}
+
+a:hover{
+  transform: scale(1.05);
+}
+
+#usernameForm {
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  left: 448px;
+  top: 300px;
+}
+
+#passwordForm {
+  position: absolute;
+  left: 448px;
+  top: 400px;
+}
+
+/* SIGN UP */
+
+.signUp {
+position: absolute;
+width: 433px;
+height: 113px;
+left: 380px;
+top: 1px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+/* identical to box height */
+text-align: center;
+color: #FFFFFF;
+}
+
+#usernameTxt {
+  position: absolute;
+  width: 200px;
+  height: 300px;
+  left: 403px;
+  top: 250px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+
+  text-align: center;
+  color: #FFFFFF;
+  
+}
+
+#passwordTxt {
+  position: absolute;
+  width: 200px;
+  height: 300px;
+  left: 403px;
+  top: 353px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+
+  text-align: center;
+  color: #FFFFFF;
+}
+
+#chooseRole {
+  position: absolute;
+  left: 490px;
+  top: 500px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.supplier-img {
+position: absolute;
+width: 300px;
+height: 550px;
+left: 480px;
+top: 550px;
+margin-top: 50px;
+  
+}
+
+.culinarian-img {
+  position: absolute;
+  left: 590px;
+  top: 600px;
+  width: 300px;
+  height: 550px;
+
+}
+
+.survivor-img {
+  position: absolute;
+  left: 230px;
+  top: 600px;
+  width: 30px;
+  height: 50px;
+  
+}
